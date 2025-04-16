@@ -1,4 +1,4 @@
- PRODIGY_CS_01 — Caesar Cipher
+ PRODIGY_CS_01:- Caesar Cipher
 
 This repository contains a simple Python script that demonstrates how the Caesar Cipher works. The Caesar Cipher is a basic encryption technique that shifts each letter in a message by a certain number of positions in the alphabet.
 
